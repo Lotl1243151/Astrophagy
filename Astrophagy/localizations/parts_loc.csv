@@ -1,0 +1,13 @@
+Key,Type,Desc,English
+Parts/Title/spindrive,Text,Display name shown in PAM and Parts Picker for spindrive,'Carl' astrophge-utilized spindrive
+Parts/Subtitle/spindrive,Text,Subtitle shown beneath the title for spindrive,Rotation-powered Astrophage drive
+Parts/Manufacturer/spindrive,Text,Manufacturer line shown in the part tooltip for spindrive,Allthegovs LLC
+Parts/Description/spindrive,Text,Multi-line part description shown in PAM tooltip for spindrive,Utilizing the Principles of the Karl hypothesis we have developed an engine capable of trivializing intrasolar travel.
+Parts/Title/astrophagebubble,Text,Display name shown in PAM and Parts Picker for Astrophagebubble,AST-XS Radial Volatile Storage System
+Parts/Subtitle/astrophagebubble,Text,Subtitle shown beneath the title for Astrophagebubble,Volatile Astrophage Storage System
+Parts/Manufacturer/astrophagebubble,Text,Manufacturer line shown in the part tooltip for Astrophagebubble,Allthegovs LLC
+Parts/Description/astrophagebubble,Text,Multi-line part description shown in PAM tooltip for Astrophagebubble,An All-black storage unit designed to store the immensely volatile Astrophage organism radially for later deployment through a spindrive.
+Parts/Title/inlineastrophagetank,Text,Display name shown in PAM and Parts Picker for Inlineastrophagetank, AST-SM Inline Astrophage Storage System
+Parts/Subtitle/inlineastrophagetank,Text,Subtitle shown beneath the title for Inlineastrophagetank, Volatile Astrophage Storage System
+Parts/Manufacturer/inlineastrophagetank,Text,Manufacturer line shown in the part tooltip for Inlineastrophagetank,Allthegovs LLC
+Parts/Description/Inlineastrophagetank,Text,Multi-line part description shown in PAM tooltip for Inlineastrophagetank,An All-black storage unit designed to store the immensely volatile astrophge organism inline for later deployment through a spindrive.

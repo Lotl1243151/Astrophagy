@@ -1,0 +1,26 @@
+{
+  "spec": "2.0",
+  "mod_id": "Astrophagy",
+  "name": "Astrophagy",
+  "author": "Volksolotl",
+  "description": "An Integrated take on the star-eater",
+  "source": "",
+  "version": "0.1.0",
+  "version_check": "",
+  "addressable_script_label": "Astrophagy_patches",
+  "addressable_prefab_patch_label": "Astrophagy_prefab_patches",
+  "ksp2_version": {
+    "min": "*",
+    "max": "*"
+  },
+  "dependencies": [
+    {
+      "id": "SpaceWarp2",
+      "version": {
+        "min": "2.0.0",
+        "max": "*"
+      }
+    }
+  ],
+  "conflicts": []
+}
